@@ -2,9 +2,12 @@
 
 EQUIPE: 
 Carla Vieira de Araujo Prudencio - 2313681
+
 Cleyson de Oliveira Severiano - 2319296
+
 Eliak Lima - 
 Heric Ferreira Maciel - 2223814
+
 Raul Carvalho Teles - ​​2314373
 
 
