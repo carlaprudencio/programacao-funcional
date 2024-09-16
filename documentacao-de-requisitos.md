@@ -12,11 +12,17 @@ Raul Carvalho Teles - ​​2314373
 
 
 Responsabilidades dos Integrantes
+
 Carla Prudencio (Código Fonte)
+
 Cleyson de Oliveira (Código Fonte)
+
 Eliak Lima (Casos de Testes)
+
 Heric Ferreira (Documentação dos Requisitos)
+
 Raul Carvalho Teles (Documentação dos Requisitos)
+
 
 # DOCUMENTO DE REQUISITOS
 Projeto: Filtro de Números Ímpares e Elevação ao Cubo
