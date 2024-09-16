@@ -1,5 +1,4 @@
-# Documento de Requisitos
-Projeto de Programação Funcional 
+# Projeto de Programação Funcional 
 
 EQUIPE: 
 Carla Vieira de Araujo Prudencio - 2313681
@@ -16,7 +15,7 @@ Eliak Lima (Casos de Testes)
 Heric Ferreira (Documentação dos Requisitos)
 Raul Carvalho Teles (Documentação dos Requisitos)
 
-DOCUMENTO DE REQUISITOS
+# DOCUMENTO DE REQUISITOS
 Projeto: Filtro de Números Ímpares e Elevação ao Cubo
 
 Requisitos Funcionais:
