@@ -11,6 +11,7 @@ Heric Ferreira Maciel - 2223814
 Raul Carvalho Teles - ​​2314373
 
 
+
 Responsabilidades dos Integrantes
 
 Carla Prudencio (Código Fonte)
